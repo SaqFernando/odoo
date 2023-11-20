@@ -15,3 +15,32 @@ pip3 install -r odoo/requirements.txt
 deactivate
 mkdir /opt/odoo/odoo-custom-addons
 exit
+cd /opt
+ls
+sudo zip odoo.zip odoo/
+rm -r odoo.zip
+sudo rm -r odoo.zip
+exit
+sudo zip odoo.zip odoo/
+sudo su
+su saq
+sudo zip odoo.zip odoo/
+sudo rm -r odoo.zip
+cd odoo
+ls
+cd ..
+zip odoo.zip odoo
+sudo zip odoo.zip odoo
+sudo zip odoo.zip /odoo
+sudo rm -r odoo.zip
+sudo zip odoo.zip /odoo
+sudo zip odoo.zip odoo/
+sudo rm -r odoo.zip
+ls
+sudo su
+cd ..
+ls
+cd 
+cd Escritorio
+ls
+exit
